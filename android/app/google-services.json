@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "844704254805",
+    "project_id": "rosabon-75ee4",
+    "storage_bucket": "rosabon-75ee4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844704254805:android:521ceb59d920d10c98fddc",
+        "android_client_info": {
+          "package_name": "com.optisoft.rosabon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844704254805-rviusnun81h2r0flns7n017agof92tot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlQjpzCwpqbC3NbQNdpq0jHLHeoEN7lrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844704254805-rviusnun81h2r0flns7n017agof92tot.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "844704254805-m41igm3o7aovm5pr0lib9qb9pp8ieren.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rosabon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

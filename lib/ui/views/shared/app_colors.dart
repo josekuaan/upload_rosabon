@@ -1,0 +1,27 @@
+import 'package:flutter/material.dart';
+
+const silverChalic = Color(0xffa1a1a1);
+const dustyGray = Color(0xff999999);
+const athensgray = Color(0xffF3F4F8);
+const deepKoamaru = Color(0xff111E6C);
+const alto = Color(0xffE0E0E0);
+const mineShaft = Color(0xff242424);
+const concreteLight = Color(0xffF3F1F1);
+const concreteBold = Color(0xffF2F2F2);
+const gray = Color(0xff828282);
+const jungleGreen = Color(0xff27AE60);
+const coldGray = Color(0xff1E1E1E);
+const minShaft = Color(0xff212121);
+const emperor = Color(0xff4F4F4F);
+const waikawaGray = Color(0xff60699F);
+const waikawaGray1 = Color(0xff626AA3);
+const kashmirBlue = Color(0xff4E5897);
+const redOrange = Color(0xffFF2424);
+const softpeach = Color(0xffFBF8F8);
+const curoiusblue = Color(0xff2D9CDB);
+const cornflowerblue = Color(0xff0d111e6c);
+const burntSienna = Color(0xffEB5757);
+const doveGray = Color(0xff626262);
+const mystic = Color(0xffDCDFEA);
+const wepeep = Color(0xffFAE7E7);
+const narvik = Color(0xffF1FAF5);
